@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-04T01:39:14 MYT" name="Reading browser details from testng xml" finished-at="2022-09-04T01:39:14 MYT" duration-ms="50">
+    <groups>
+      <group name="bvt">
+        <method signature="GroupTestCases.bTest3()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="bTest3" class="testNG_Project.GroupTestCases"/>
+        <method signature="GroupTestCases.bTest4()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="bTest4" class="testNG_Project.GroupTestCases"/>
+      </group> <!-- bvt -->
+      <group name="user-registration">
+        <method signature="GroupTestCases.aTest1()[pri:1, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="aTest1" class="testNG_Project.GroupTestCases"/>
+        <method signature="GroupTestCases.bTest2()[pri:2, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="bTest2" class="testNG_Project.GroupTestCases"/>
+        <method signature="GroupTestCases.bTest3()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="bTest3" class="testNG_Project.GroupTestCases"/>
+        <method signature="GroupTestCases.bTest4()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="bTest4" class="testNG_Project.GroupTestCases"/>
+      </group> <!-- user-registration -->
+      <group name="regression">
+        <method signature="GroupTestCases.aTest1()[pri:1, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="aTest1" class="testNG_Project.GroupTestCases"/>
+        <method signature="GroupTestCases.bTest2()[pri:2, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="bTest2" class="testNG_Project.GroupTestCases"/>
+        <method signature="GroupTestCases.bTest3()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" name="bTest3" class="testNG_Project.GroupTestCases"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2022-09-04T01:39:14 MYT" name="Reading browser details from testng xml" finished-at="2022-09-04T01:39:14 MYT" duration-ms="50">
+      <class name="testNG_Project.GroupTestCases">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" started-at="2022-09-04T01:39:14 MYT" name="beforeClass" finished-at="2022-09-04T01:39:14 MYT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="bTest3()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" started-at="2022-09-04T01:39:14 MYT" name="bTest3" finished-at="2022-09-04T01:39:14 MYT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest3 -->
+        <test-method signature="bTest4()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" started-at="2022-09-04T01:39:14 MYT" name="bTest4" finished-at="2022-09-04T01:39:14 MYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest4 -->
+        <test-method signature="aTest1()[pri:1, instance:testNG_Project.GroupTestCases@5fbdfdcf]" started-at="2022-09-04T01:39:14 MYT" name="aTest1" finished-at="2022-09-04T01:39:14 MYT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest1 -->
+        <test-method signature="bTest2()[pri:2, instance:testNG_Project.GroupTestCases@5fbdfdcf]" started-at="2022-09-04T01:39:14 MYT" name="bTest2" finished-at="2022-09-04T01:39:14 MYT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest2 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNG_Project.GroupTestCases@5fbdfdcf]" started-at="2022-09-04T01:39:14 MYT" name="afterClass" finished-at="2022-09-04T01:39:14 MYT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNG_Project.GroupTestCases -->
+    </test> <!-- Reading browser details from testng xml -->
+  </suite> <!-- Reading browser details from testng xml -->
+</testng-results>
